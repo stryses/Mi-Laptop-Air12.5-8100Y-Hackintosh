@@ -9,6 +9,10 @@ Update Time: 2021/02/28
 
 **I will update the kext irregularly without regularity.**
 
+Github:https://github.com/stryses/Xiaomi-Air12.5-8100Y-Macintosh
+
+Gitee[中文]：https://gitee.com/likt/xiaomi-air12.5-8100y-macintosh
+
 # Can I use?
 
 This is my hardware report , if you same with me , you can download all the file use it directly.
