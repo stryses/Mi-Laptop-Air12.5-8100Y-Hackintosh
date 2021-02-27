@@ -9,9 +9,9 @@ Update Time: 2021/02/28
 
 **I will update the kext irregularly without regularity.**
 
-Github:https://github.com/stryses/Xiaomi-Air12.5-8100Y-Macintosh
+Github:https://github.com/stryses/Mi-Laptop-Air12.5-8100Y-Hackintosh
 
-Gitee[中文]：https://gitee.com/likt/xiaomi-air12.5-8100y-macintosh
+Gitee[中文]：https://gitee.com/likt/Xiaomi-Air12.5-8100Y-Hackintosh
 
 # Can I use?
 
