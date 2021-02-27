@@ -1,4 +1,4 @@
-# Xiaomi Air 12.5(2019) 8100Y Macintosh
+# Xiaomi Air 12.5(2019) 8100Y Hackintosh
 **Opencore 0.6.6** Config and Drivers of Mi Laptop Air 12.5(2019) 8100Y
 
 Mac Version: 10.15.7 (Maybe in normal use in 11.0.0 , i have not test)
