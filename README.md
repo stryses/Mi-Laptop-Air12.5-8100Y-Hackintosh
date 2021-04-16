@@ -1,7 +1,7 @@
 # Xiaomi Air 12.5(2019) 8100Y Hackintosh
-**Opencore 0.6.9** Config and Drivers of Mi Laptop Air 12.5(2019) 8100Y
+**Opencore 0.6.8** Config and Drivers of Mi Laptop Air 12.5(2019) 8100Y
 
-Mac Version: 11.2.3(**According to the test , this EFI package can upgraph to the newest mac version.**)
+Mac Version: 11.2.3 (**According to the test , this EFI package can upgraph to the newest mac version.**)
 
 Create Time: 2020/10/11
 
@@ -59,6 +59,7 @@ Based on my usage feedback  ,  following functions can be used normally:
 
 # What including in this repo?
 
+- Opencore 0.6.8
 - AirportItlwm **[Bigsur Version]** (v1.2.0 / 15 Jan)
 - AppleALC (1.5.9 / 6 April)
 - CPUFriend (1.2.3 / 5 Jan)
@@ -95,10 +96,11 @@ Most of the time you can update the system directly if its non cross release upg
 
 - Support 11.2.3
 - Replace Wireless Kext for BigSur
-- Update Opencore 0.6.9
+- Update Opencore 0.6.8
 - Update Lilu 1.5.2
 - Update VirtualSMC 1.2.2
 - Update Whatevergreen 1.4.9
+- Fix Folder
 
 ##  20210228 Release
 
