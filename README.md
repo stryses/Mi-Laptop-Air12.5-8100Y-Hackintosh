@@ -11,7 +11,7 @@ Update Time: 2021/06/04
 
 Github:https://github.com/stryses/Mi-Laptop-Air12.5-8100Y-Hackintosh
 
-Gitee[中文]：https://gitee.com/likt/Xiaomi-Air12.5-8100Y-Hackintosh
+Gitee[中文]：NO LONGER SUPPORTED
 
 # Can I use?
 
@@ -90,6 +90,11 @@ Most of the time you can update the system directly if its non cross release upg
 2. Sleep , and wake up in few seconds.
 
 # Update Logs
+
+## 20220520 Release
+
+- Fix ACPI
+- And Nothing Change
 
 ## 20210604 Release
 
